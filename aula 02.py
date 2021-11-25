@@ -10,10 +10,12 @@ if divide:
 else:
     print("Conta invalida")
 
+
 def multiplicacao():
     n1 = int(input("Digite N1: "))
     n2 = int(input("Digite N2: "))
     return n1 * n2
+
 
 multi = multiplicacao()
 
